@@ -245,6 +245,11 @@ function create_config( )
     "settings",
     "spam",
     "version",
+    "Anti link",
+    "Chat",
+    "Echo",
+    "ID",
+    "Invite",
     },
   enabled_lang = {
     "arabic_lang",
